@@ -20,8 +20,3 @@ A console-based slot machine game built in Python where users can deposit money,
 - **Library:** random (built-in)
 
 ---
-
-## How to Play
-1. Clone or download the repository:
-```bash
-git clone https://github.com/yourusername/slot-machine.git
